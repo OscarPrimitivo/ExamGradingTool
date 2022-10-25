@@ -1,0 +1,13 @@
+Exam Stats
+
+Number of Scores: 60.0
+Average Score: 69.33
+Standard Deviation: 17.8
+
+A Count: 	6.67%
+B Count: 18	30%
+C Count: 15	25%nD Count: 8	13.33%
+F Count: 15	25%
+
+Minimum Score: 0
+Maximum Score 100
